@@ -5,3 +5,5 @@ CS:GO Legacy Internal Cheat written in C++
 Made using imgui/kierohook
 
 Include D3D Folder / Build as Debug x86
+
+Inject using Process Hacker
